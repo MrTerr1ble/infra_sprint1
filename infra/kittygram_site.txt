@@ -1,0 +1,5 @@
+ IP: 84.201.167.207;
+ name_taski: https://taskiii.zapto.org/;
+ name_kittygram: https://kitties.ddns.net/;
+ login: admin;
+ password: admin;
